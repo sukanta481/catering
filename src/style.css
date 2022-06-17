@@ -7,8 +7,11 @@
 body{
     background-color: rgb(24, 20, 20);
 }
-section{
-    background-image: url("");
+.section-1{
+    background-image: url("img/pics/rajasthani.jpg");
+    background-size: cover;
+    height: 600px;
+    color: white;
 }
 
 /* navbar */
